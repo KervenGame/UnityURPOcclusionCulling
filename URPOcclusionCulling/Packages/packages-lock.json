@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.kervengame.showinexploer": {
+      "version": "https://github.com/KervenGame/ShowInExplorer.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "41d8fed6e0f3a1c16169022dc0e833ae7dba6a35"
+    },
     "com.unity.burst": {
       "version": "1.8.15",
       "depth": 1,
